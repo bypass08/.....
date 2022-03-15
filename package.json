@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sikkufiles/....."
+    "url": "git+https://github.com/bypass08/....."
   },
-  "author": "Muhammad Hamza (HOP Programmers)",
+  "author": "Muhammad Khan (NOOB)",
   "license": "MIT",
   "dependencies": {
     "axios-proxy-fix": "^0.16.3",
